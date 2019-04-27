@@ -4,26 +4,23 @@ public class DataTypes {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
-		
-		int i =0;
-		float j = 3.5f;
-		long k = 1234;
-		double d = 153.4;
-		boolean b=true;
-		short S =85;
-		char c ='a';
-		String s= "naveen";
-		int num[] = {1,2,3};
-		System.out.println("Datatype int = "+i);
-		System.out.println("Datatype float = "+j);
-		System.out.println("Datatype long  = "+k);
-		System.out.println("Datatype double = "+d);
-		System.out.println("Datatype short = "+S);
-		System.out.println(b);
-		System.out.println("Datatype char = "+c);
-		System.out.println("Datatype String is = "+s);
-		
+
+		int my_age = 30;
+		float price_apple = 3.5f;
+		long user_id = 1234;
+		double total_bill = 153.4;
+		boolean breturn = true;
+		short entry_fee = 85;
+		char char1 = 'a';
+		String sname = "naveen";
+		System.out.println("Datatype int = " + my_age);
+		System.out.println("Datatype float = " + price_apple);
+		System.out.println("Datatype long  = " + user_id);
+		System.out.println("Datatype double = " + total_bill);
+		System.out.println("Datatype short = " + entry_fee);
+		System.out.println(breturn);
+		System.out.println("Datatype char = " + char1);
+		System.out.println("Datatype String is = " + sname);
 
 	}
 
