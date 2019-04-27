@@ -13,6 +13,7 @@ public class MainMethod {
 		          an array of elements of type String.
 */
 		System.out.println("Hello World");
+		System.out.println("hi github");
 		
 	}
 
