@@ -5,6 +5,7 @@ public class DataTypes {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		// local variables
+		//add also non primitive data type examples
 		int my_age = 30;
 		float price_apple = 3.5f;
 		long user_id = 1234;
