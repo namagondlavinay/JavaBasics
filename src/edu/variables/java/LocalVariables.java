@@ -5,7 +5,7 @@ package edu.variables.java;
 
 /**
  * @author VINAY KUMAR
- *
+ * Variable is name of reserved area allocated in memory
  */
 public class LocalVariables {
 
